@@ -1,0 +1,4 @@
+.komodotools
+bin/
+vendor/
+cli-template.kpf
